@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/szulawski/szulawski/blob/main/background.JPG?raw=true" width="100%" alt="Banner" />
+</div>
+<br/>
+
 # Hi, I'm Piotr.
 
 I'm **Engineering Manager** and **Platform Architect** focused on bridging the gap between complex distributed systems and the humans who build them. Currently leading **Core CI/CD & Platform Engineering** at **Procter & Gamble**, where I define the strategy for reliable software delivery across hundreds of global teams.
