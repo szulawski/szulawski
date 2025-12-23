@@ -7,7 +7,7 @@
 
 I'm **Engineering Manager** and **Platform Architect** focused on bridging the gap between complex distributed systems and the humans who build them. Currently leading **Core CI/CD & Platform Engineering** at **Procter & Gamble**, where I define the strategy for reliable software delivery across hundreds of global teams.
 
-> I like to simplify and automate things if they repeat often—it's productivity, not laziness. 😉
+> I like to simplify and automate things if they repeat often - it's productivity, not laziness. 😉
 >
 > Setting up the development environment is painful? No worries! I have a set of **devenv.sh** descriptors for the most commonly used tech stacks!
 
