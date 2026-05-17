@@ -5,19 +5,22 @@
 
 # Hi, I'm Piotr.
 
-I'm **Engineering Manager** and **Platform Architect** focused on bridging the gap between complex distributed systems and the humans who build them. Currently leading **Core CI/CD & Platform Engineering** at **Procter & Gamble**, where I define the strategy for reliable software delivery across hundreds of global teams.
+Engineering Manager and platform builder. 19 years in IT - started writing Java, now I run the CI/CD backbone that hundreds of development teams at P&G build their code on.
 
-> I like to simplify and automate things if they repeat often - it's productivity, not laziness. 😉
->
-> Setting up the development environment is painful? No worries! I have a set of **devenv.sh** descriptors for the most commonly used tech stacks!
+I'm an engineer who ended up in management, not the other way around. I can read the codebase, debug the pipeline, and write the postmortem.
 
-### 🎯 My Focus
+Most of what I build follows the same pattern: find a hard problem that nobody has had time to properly look at, go deep, build something reusable, and move on. I don't maintain what I build. I make sure it doesn't need me.
 
-I don't just manage tickets; I treat internal platforms for developers as a **product**. My goal is to simplify the CI/CD process so engineers can ship code faster and safer.
+### 🎯 What I'm working on
 
-- **🔭 Currently building:** A modern, self-service CI/CD Framework for hundreds of projects.
-- **🌱 Currently exploring:** Go (Golang), Kubernetes Operators, and advanced GitOps patterns (Kargo).
-- **💡 Core Philosophy:** Context over Control. Impact over Effort.
+- **CI/CD at scale:** Self-hosted runner infrastructure
+- **Platform migrations & engineering**
+- **Currently learning:** Go, Kubernetes Operators, GitOps promotion patterns (Kargo)
+- **Core philosophy:** Context over Control. Impact over Effort.
+
+### 🔐 Security
+
+GitHub Bounty Hunters member. Discovered and reported an authentication/authorization flaw in GitHub Container Registry during off-work development. Confirmed by GitHub Security via HackerOne.
 
 ---
 
@@ -27,7 +30,7 @@ I believe leaders should stay hands-on to keep up to date with their teams and p
 
 | Domain | Stack |
 | :--- | :--- |
-| **Cloud & Infra** | Azure, GCP *(basic)*, Kubernetes, Docker, Terraform, Ansible |
+| **Cloud & Infra** | Azure, GCP, Kubernetes, Docker, Terraform, Ansible |
 | **CI/CD** | GitHub Actions, Azure DevOps, Jenkins, ArgoCD |
 | **Core** | Java, Python, Node.js, Go *(Learning)* |
 | **Observability** | OpenTelemetry, Prometheus, Grafana, ELK |
